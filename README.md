@@ -4,7 +4,7 @@
  
   ---
   <h4>About Me</h4>
-  So as you already know my name(Hartaj Singh),I am Currenly mastering full-stack web development.
+  So as you already know my name (Hartaj Singh) ,I am Currenly mastering full-stack web development.
   So over last year, I’ve invested time in working on what interests me .I recently worked on project of Instagram clone and a few extra exciting projects.
 
 ---
