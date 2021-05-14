@@ -27,9 +27,7 @@
 ---
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hartaj-singh-dev&show_icons=true&locale=en" alt="hartaj-singh-dev" /></p>
 
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hartaj-singh-dev&" alt="hartaj-singh-dev" /></p>
 
 ---
 
