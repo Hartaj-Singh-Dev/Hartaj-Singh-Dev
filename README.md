@@ -1,6 +1,6 @@
 
 
- <h3>Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Hartaj Singh Sidhu</h3>
+ <h2>Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Hartaj Singh Sidhu</h2>
  
  
    ---
