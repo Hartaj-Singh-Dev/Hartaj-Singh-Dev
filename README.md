@@ -34,7 +34,7 @@
 
 At the End
 
-<h2  align="center">I am Proud Student of Youtube and Google University</h2>
+<h2  align="center">I am Proud Student of <b>Youtube</b> and <b>Google University</b></h2>
 
 
 
