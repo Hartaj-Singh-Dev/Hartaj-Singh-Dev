@@ -7,7 +7,7 @@
    
    Personal Website
    
-   <h3><a>https://thehartajsingh05.web.app/#/</a></h3>
+   <h3><a>https://thehartajsingh05.web.app/</a></h3>
   
   ---
   
