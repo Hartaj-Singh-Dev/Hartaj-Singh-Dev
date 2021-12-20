@@ -9,7 +9,7 @@
        <a>https://thehartajsingh05.web.app/</a>
    Blog
         
-        <a>https://hartaj-writes.vercel.app/</a>
+  <a>https://hartaj-writes.vercel.app/</a>
   
   ---
   
