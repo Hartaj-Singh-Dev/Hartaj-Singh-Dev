@@ -11,8 +11,6 @@
    Blog
        <a>https://hartaj-writes.vercel.app/</a>
    
-   Currently Working ON 
-         <a>https://tictactoe-hartaj.vercel.app/</a>
   
   ---
   
