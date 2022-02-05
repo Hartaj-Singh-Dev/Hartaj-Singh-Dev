@@ -6,7 +6,7 @@
    ---
    
    Personal Website
-       <a>https://thehartajsingh05.web.app/</a>
+       <a>https://hxrtaj5ingh.web.app/</a>
        
    Blog
        <a>https://hartaj-writes.vercel.app/</a>
