@@ -3,6 +3,9 @@
  <h2>Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Hartaj Singh Sidhu</h2>
  
  
+ 
+![Profile Visits](https://komarev.com/ghpvc/?username=Hartaj-Singh-Dev) <br>
+
    ---
    
    Personal Website
@@ -41,9 +44,6 @@ src = "https://github.com/devicons/devicon/blob/master/icons/typescript/typescri
 At the End
 
 <h2  align="center">I am Proud Student of <b>Youtube</b> and <b>Google University</b></h2>
-
-![Profile Visits](https://komarev.com/ghpvc/?username=Hartaj-Singh-Dev) <br>
-
 
 
 
