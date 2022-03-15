@@ -8,17 +8,17 @@
 
    ---
    
-   Personal Website
+   Personal Website : 
        <a>https://hxrtaj5ingh.web.app/</a>
        
-   Blog
+   Blog :
        <a>https://hartaj-writes.vercel.app/</a>
    
   
   ---
   
    ## About Me
-  >So as you already know my name (Hartaj Singh) , I am MERN with next.js 
+  >So as you already know my name (Hartaj Singh) , I am MERN with next.js Developer , building Projects , Working on Open source Projects and exploring Web3
 
 ---
 ##   🧰  Technologies I use 
