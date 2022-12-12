@@ -17,7 +17,7 @@
   ---
   ## Join One of the best community in Developer Space
   
-  <h2> Elit Dynamon </h2> 
+  <h3> Elit Dynamon </h3> 
    with 1400+ Developers 
    
    >Link- https://discord.gg/xKuNXh8N5f
