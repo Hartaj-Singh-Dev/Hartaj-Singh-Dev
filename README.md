@@ -25,7 +25,7 @@
   ---
   
    ## About Me
-  >So as you already know my name (Hartaj Singh) , I am MERN with next.js Developer , building Projects , Working on Open source Projects and exploring Web3
+  >So as you already know my name (Hartaj Singh) , I am MERN with next.js Developer , building Projects , Exploring Open source Projects 
 
 ---
 ### Languages:
