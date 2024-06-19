@@ -12,7 +12,7 @@
        <a>https://hxrtaj5ingh.web.app/</a>
        
    Blog :
-       <a>https://hxrtajwrites.vercel.app//</a>
+       <a>https://hxrtxjwrites.vercel.app//</a>
    
   ---
   ## Join One of the best community in Developer Space
